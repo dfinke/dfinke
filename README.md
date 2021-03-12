@@ -27,6 +27,10 @@
 |---:|---:|
 |[![Alt text](https://i9.ytimg.com/vi/fvKKdIzJCws/mq1.jpg?sqp=CKCjr4IG&rs=AOn4CLAdNs4HXZiNbq5jqOL3rYJN5OdyQg)](https://youtu.be/fvKKdIzJCws)|[![Alt text](https://i9.ytimg.com/vi/gQaYI5hxqM4/mq1.jpg?sqp=CPyur4IG&rs=AOn4CLD2J0TBBXiAveD01IyYEHaSyorLhA)](https://youtu.be/gQaYI5hxqM4)
 
+<br/>
+<br/>
+<br/>
+
 ## ![PS](media/powershell-emoji.png) Other PowerShell Makers
 <br/>
 
