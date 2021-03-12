@@ -12,18 +12,11 @@
 
 |PowerShell Gallery|Repo|Details
 | :--- | --- | --- |
-|![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/ImportExcel.png?style=plastic&logo=powershell&label=Downloads) ![]() |[ImportExcel](https://github.com/dfinke/ImportExcel) |PowerShell module to import/export Excel spreadsheets, without Excel
-|![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSAdvantage.png?style=plastic&logo=powershell&label=Downloads) |[PSAdvantage](https://github.com/dfinke/PSAdvantage) |GitHub Actions at your Fingertips! ✨
-|![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/NameIT.png?style=plastic&logo=powershell&label=Downloads) |[NameIT](https://github.com/dfinke/NameIT) |PowerShell module for randomly generating data
-|![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PowerShellHumanizer.png?style=plastic&logo=powershell&label=Downloads) |[PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) |PowerShell Humanizer meets all your PowerShell needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-||[Tiny PowerShell Projects](https://github.com/dfinke/Tiny-PowerShell-Projects) |Learning PowerShell through test-driven development of games and puzzles
-
-
-<!-- |![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/ImportExcel.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/ImportExcel.png?style=plastic&logo=powershell&label=PowerShell%20Gallery)|[ImportExcel](https://github.com/dfinke/ImportExcel) |PowerShell module to import/export Excel spreadsheets, without Excel
+|![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/ImportExcel.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/ImportExcel.png?style=plastic&logo=powershell&label=PowerShell%20Gallery)|[ImportExcel](https://github.com/dfinke/ImportExcel) |PowerShell module to import/export Excel spreadsheets, without Excel
 |![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSAdvantage.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSAdvantage.png?style=plastic&logo=powershell&label=PowerShell%20Gallery)|[PSAdvantage](https://github.com/dfinke/PSAdvantage) |GitHub Actions at your Fingertips! ✨
 |![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/NameIT.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/NameIT.png?style=plastic&logo=powershell&label=PowerShell%20Gallery)|[NameIT](https://github.com/dfinke/NameIT) |PowerShell module for randomly generating data
 |![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PowerShellHumanizer.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/PowerShellHumanizer.png?style=plastic&logo=powershell&label=PowerShell%20Gallery)|[PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) |PowerShell Humanizer meets all your PowerShell needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-||[Tiny PowerShell Projects](https://github.com/dfinke/Tiny-PowerShell-Projects) |Learning PowerShell through test-driven development of games and puzzles -->
+||[Tiny PowerShell Projects](https://github.com/dfinke/Tiny-PowerShell-Projects) |Learning PowerShell through test-driven development of games and puzzles
 
 <br/>
 <br/>
