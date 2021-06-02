@@ -1,8 +1,7 @@
 > ## Use automation to increase bandwidth in order to address technical debt
 <br/>
 
-[![](https://raw.githubusercontent.com/dfinke/dfinke/master/chat.svg?token=AAAQNOR2VEPA73PTTFBMSI3AYE4N4)](https://twitter.com/dfinke)
-
+[![](./chat.svg)](https://twitter.com/dfinke)
 
 ![](https://github-readme-stats.vercel.app/api?username=dfinke&show_icons=true&theme=merko)
 
