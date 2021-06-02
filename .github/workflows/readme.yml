@@ -16,7 +16,7 @@ jobs:
         env:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
         shell: pwsh
-        run: ./build-svg.ps1
+        run: . ./build-svg.ps1
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
