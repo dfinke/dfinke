@@ -1,10 +1,11 @@
-# 
 > ## Use automation to increase bandwidth in order to address technical debt
-
 <br/>
+
+[![](https://raw.githubusercontent.com/dfinke/dfinke/master/chat.svg?token=AAAQNOR2VEPA73PTTFBMSI3AYE4N4)](https://twitter.com/dfinke)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=dfinke&show_icons=true&theme=merko)
-<br/>
+
 <br/>
 
 # My Popular PowerShell Modules
@@ -16,12 +17,18 @@
 |![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSAdvantage.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSAdvantage.png?style=plastic&logo=powershell&label=Version)|[PSAdvantage](https://github.com/dfinke/PSAdvantage) |GitHub Actions at your Fingertips! ✨
 |![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/NameIT.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/NameIT.png?style=plastic&logo=powershell&label=Version)|[NameIT](https://github.com/dfinke/NameIT) |PowerShell module for randomly generating data
 |![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PowerShellHumanizer.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/PowerShellHumanizer.png?style=plastic&logo=powershell&label=Version)|[PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) |PowerShell Humanizer meets all your PowerShell needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-||[Tiny PowerShell Projects](https://github.com/dfinke/Tiny-PowerShell-Projects) |Learning PowerShell through test-driven development of games and puzzles
-
 <br/>
 <br/>
 
-## PowerShell Excel YouTube Videos
+# My Popular PowerShell Repos
+
+|Repo|Details
+| --- | --- |
+|[Tiny PowerShell Projects](https://github.com/dfinke/Tiny-PowerShell-Projects) |Learning PowerShell through test-driven development of games and puzzles
+|[PowerShell Microservice](https://github.com/dfinke/PowerShellMicroservice)|A PowerShell REST API running as a microservice in a Docker container.
+|[PowerShell Interactive Notebook](https://github.com/dfinke/PowerShellNotebook)|`Invoke-PowerShellNotebook` (and more functions) enables you to run the cells inside a PowerShell Interactive Notebook, from the command line, headless.
+
+<!-- ## PowerShell Excel YouTube Videos
 
 | | |
 |---:|---:|
@@ -37,4 +44,4 @@
 |||
 |---|---|
 |[![](https://img.shields.io/badge/Jeff%20Hicks-gray?style=for-the-badge&logo=github)](https://github.com/jdhitsolutions)|[![](https://img.shields.io/badge/Jeff%20Hicks-blue?style=for-the-badge&logo=twitter)](https://twitter.com/JeffHicks)
-|[![](https://img.shields.io/badge/Matthew%20Kelly-gray?style=for-the-badge&logo=github)](https://github.com/Badgerati)
+|[![](https://img.shields.io/badge/Matthew%20Kelly-gray?style=for-the-badge&logo=github)](https://github.com/Badgerati) -->
