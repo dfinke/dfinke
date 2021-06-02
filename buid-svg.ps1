@@ -42,7 +42,7 @@ $icon = $emojis[[int]$target.Day.Icon]
 $psTime = (get-date).year - (get-date "1/1/2009").year
 $todayDay = (get-date).DayOfWeek
 
-$data = get-content -Raw ./template.svg
+$data = Get-Content -Raw ./template.svg
 
 $data = $data.replace("{degF}", $degF)
 $data = $data.replace("{degC}", $degC)
@@ -50,4 +50,4 @@ $data = $data.replace("{weatherEmoji}", $icon)
 $data = $data.replace("{psTime}", $psTime)
 $data = $data.replace("{todayDay}", $todayDay)
 
-$data | Set-Content -Encoding utf8 ./dougchat.svg
+$data | Set-Content -Encoding utf8 ./chat.svg
