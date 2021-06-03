@@ -1,6 +1,10 @@
 > ## Use automation to increase bandwidth in order to address technical debt
 <br/>
 
+The below is built using the `build-svg.ps1` PowerShell script, which is run daily at 4am via the [GitHub Action](.github\workflows\readme.yml).
+
+<br/>
+
 [![](./chat.svg)](https://twitter.com/dfinke)
 
 ![](https://github-readme-stats.vercel.app/api?username=dfinke&show_icons=true&theme=merko)
@@ -23,9 +27,9 @@
 
 |Repo|Details
 | --- | --- |
+|[PowerShell Interactive Notebook](https://github.com/dfinke/PowerShellNotebook)| A tool for parameterizing, executing, and analyzing .NET Interactive PowerShell Notebooks
 |[Tiny PowerShell Projects](https://github.com/dfinke/Tiny-PowerShell-Projects) |Learning PowerShell through test-driven development of games and puzzles
 |[PowerShell Microservice](https://github.com/dfinke/PowerShellMicroservice)|A PowerShell REST API running as a microservice in a Docker container.
-|[PowerShell Interactive Notebook](https://github.com/dfinke/PowerShellNotebook)|`Invoke-PowerShellNotebook` (and more functions) enables you to run the cells inside a PowerShell Interactive Notebook, from the command line, headless.
 
 <!-- ## PowerShell Excel YouTube Videos
 
