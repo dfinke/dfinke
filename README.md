@@ -1,7 +1,7 @@
 > ## Use automation to increase bandwidth in order to address technical debt
 <br/>
 
-The below is built using the `build-svg.ps1` PowerShell script, which is run daily at 4am via the [GitHub Action](.github\workflows\readme.yml).
+The below is built using the [build-svg.ps1](https://github.com/dfinke/dfinke/blob/master/build-svg.ps1) PowerShell script, which runs daily at 4am via this [GitHub Action](https://github.com/dfinke/dfinke/blob/master/.github/workflows/readme.yml).
 
 <br/>
 
