@@ -300,8 +300,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm a software tinkerer. A Microsoft MVP,</text>
-    <text x="15" y="50">for {psTime} years, and I like exploring technology.</text>
+    <text x="15" y="27">I'm a software tinkerer, a {psTime} year Microsoft MVP,</text>
+    <text x="15" y="50">and adventurer in technology.</text>
   </g>
 
   <!-- typing 4 -->
