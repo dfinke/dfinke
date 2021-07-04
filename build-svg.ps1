@@ -39,7 +39,7 @@ $target = $r.DailyForecasts[0]
 $degF = $target.Temperature.Maximum.Value
 $degC = [math]::Round((($degF - 32) / 1.8))
 $icon = $emojis[[int]$target.Day.Icon]
-$psTime = (get-date).year - (get-date "7/1/2009").year
+$psTime = (get-date).year - (get-date "7/1/2008").year
 $todayDay = (get-date).DayOfWeek
 
 $data = Get-Content -Raw ./template.svg
