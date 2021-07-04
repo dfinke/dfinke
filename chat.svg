@@ -276,7 +276,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in New York City where it's supposed to be</text>
-    <text x="15" y="50">66° F (19° C) and <tspan class="emoji">⛈</tspan> today.</text>
+    <text x="15" y="50">77° F (25° C) and <tspan class="emoji">🌦</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -300,7 +300,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm a software tinkerer, a 12 year Microsoft MVP,</text>
+    <text x="15" y="27">I'm a software tinkerer, a 13 year Microsoft MVP,</text>
     <text x="15" y="50">and adventurer in technology.</text>
   </g>
 
