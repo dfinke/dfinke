@@ -300,7 +300,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm an AI tinkerer, a {psTime} year Microsoft MVP,</text>
+    <text x="15" y="27">I'm an AI tinkerer, a 15x Microsoft MVP,</text>
     <text x="15" y="50">and adventurer in technology.</text>
   </g>
 
