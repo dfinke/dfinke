@@ -1,50 +1,48 @@
-> ## Use automation to increase bandwidth in order to address technical debt
+# Doug Finke | Systems Architect 
+### 16-time Microsoft MVP | Author of *PowerShell for Developers*
+
+![Banner](media/LinkedIn-Banner.png)
+
+> **Bridging decades of Systems Engineering with the future of Agentic AI.**
+
+I build high-agency automation frameworks and multi-agent orchestration tools within the PowerShell ecosystem. My mission is to provide the infrastructure for the next generation of intelligent automation using **Model Context Protocol (MCP)** and native AI integrations.
+
+---
+
+### 🚀 Agentic AI & LLM Infrastructure
+| Repo | Details |
+| :--- | :--- |
+| [**PSClaudeCode**](https://github.com/dfinke/PSClaudeCode) | Bringing Anthropic's Claude 3.5/3.7 "Engineer" capabilities natively to the PowerShell console. |
+| [**PSUnplugged**](https://github.com/dfinke/PSUnplugged) | Framework for local LLM orchestration and edge AI execution via PowerShell, featuring Codex App Server integration. |
+| [**PSAISUITE**](https://github.com/dfinke/psaisuite) | A comprehensive suite for building, managing, and orchestrating Agentic AI workflows. |
+| [**PSAI**](https://github.com/dfinke/psai) | PowerShell-native AI Agent orchestration and LLM integration. |
+---
+
+### 📊 Popular PowerShell Modules
+| PowerShell Gallery | Repo | Details |
+| :--- | :--- | :--- |
+| [![Downloads](https://img.shields.io/powershellgallery/dt/ImportExcel.png?style=plastic&logo=powershell&label=Downloads)](https://www.powershellgallery.com/packages/ImportExcel) | [**ImportExcel**](https://github.com/dfinke/ImportExcel) | Import/export Excel spreadsheets without Excel. **Millions of downloads.** |
+| ![Downloads](https://img.shields.io/powershellgallery/dt/PSAdvantage.png?style=plastic&logo=powershell&label=Downloads) | [**PSAdvantage**](https://github.com/dfinke/PSAdvantage) | GitHub Actions at your fingertips. |
+| ![Downloads](https://img.shields.io/powershellgallery/dt/NameIT.png?style=plastic&logo=powershell&label=Downloads) | [**NameIT**](https://github.com/dfinke/NameIT) | Random data generation engine for testing and dev. |
+
+---
+
+### 🛠️ Systems Engineering & Interactive Tooling
+| Repo | Details |
+| :--- | :--- |
+| [**PowerShell Interactive Notebook**](https://github.com/dfinke/PowerShellNotebook) | Parameterizing, executing, and analyzing .NET Interactive PowerShell Notebooks. |
+| [**PowerShell Microservice**](https://github.com/dfinke/PowerShellMicroservice) | A PowerShell REST API running as a microservice in a Docker container. |
+| [**Tiny PowerShell Projects**](https://github.com/dfinke/Tiny-PowerShell-Projects) | TDD-based learning for games, puzzles, and logic in PowerShell. |
+
+---
+New York - 
+### 🌐 Connect & Learn
+
+* ⚡ [NYC Agentic AI Meetup 🗽](https://www.meetup.com/nycpowershellmeetup)
+* 📺 **YouTube**: [youtube.com/dougfinke](https://www.youtube.com/dougfinke) - Weekly deep dives into PowerShell & AI.
+* 🐦 **Twitter/X**: [@dfinke](https://twitter.com/dfinke)
+* 🏢 **LinkedIn**: [linkedin.com/in/dougfinke](https://www.linkedin.com/in/dougfinke)
+
 <br/>
-
-The below is built using the [build-svg.ps1](https://github.com/dfinke/dfinke/blob/master/build-svg.ps1) PowerShell script, which runs daily at 4am via this [GitHub Action](https://github.com/dfinke/dfinke/blob/master/.github/workflows/readme.yml).
-
-<br/>
-
-[![](./chat.svg)](https://twitter.com/dfinke)
 
 ![](https://github-readme-stats.vercel.app/api?username=dfinke&show_icons=true&theme=merko)
-
-<br/>
-
-# My Popular PowerShell Modules
-<br/>
-
-|PowerShell Gallery|Repo|Details
-| :--- | --- | --- |
-|[![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/ImportExcel.png?style=plastic&logo=powershell&label=Downloads)](https://www.powershellgallery.com/packages/ImportExcel) [![PSGallery Version](https://img.shields.io/powershellgallery/v/ImportExcel.png?style=plastic&logo=powershell&label=Version)](https://www.powershellgallery.com/packages/ImportExcel)|[ImportExcel](https://github.com/dfinke/ImportExcel) |PowerShell module to import/export Excel spreadsheets, without Excel
-|![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSAdvantage.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSAdvantage.png?style=plastic&logo=powershell&label=Version)|[PSAdvantage](https://github.com/dfinke/PSAdvantage) |GitHub Actions at your Fingertips! ✨
-|![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/NameIT.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/NameIT.png?style=plastic&logo=powershell&label=Version)|[NameIT](https://github.com/dfinke/NameIT) |PowerShell module for randomly generating data
-|![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PowerShellHumanizer.png?style=plastic&logo=powershell&label=Downloads) ![PSGallery Version](https://img.shields.io/powershellgallery/v/PowerShellHumanizer.png?style=plastic&logo=powershell&label=Version)|[PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) |PowerShell Humanizer meets all your PowerShell needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-
-<br/>
-
-# My Popular PowerShell Repos
-
-|Repo|Details
-| --- | --- |
-|[PowerShell Interactive Notebook](https://github.com/dfinke/PowerShellNotebook)| A tool for parameterizing, executing, and analyzing .NET Interactive PowerShell Notebooks
-|[Tiny PowerShell Projects](https://github.com/dfinke/Tiny-PowerShell-Projects) |Learning PowerShell through test-driven development of games and puzzles
-|[PowerShell Microservice](https://github.com/dfinke/PowerShellMicroservice)|A PowerShell REST API running as a microservice in a Docker container.
-
-<!-- ## PowerShell Excel YouTube Videos
-
-| | |
-|---:|---:|
-|[![Alt text](https://i9.ytimg.com/vi/fvKKdIzJCws/mq1.jpg?sqp=CKCjr4IG&rs=AOn4CLAdNs4HXZiNbq5jqOL3rYJN5OdyQg)](https://youtu.be/fvKKdIzJCws)|[![Alt text](https://i9.ytimg.com/vi/gQaYI5hxqM4/mq1.jpg?sqp=CPyur4IG&rs=AOn4CLD2J0TBBXiAveD01IyYEHaSyorLhA)](https://youtu.be/gQaYI5hxqM4)
-
-<br/>
-<br/>
-<br/>
-
-## ![PS](media/powershell-emoji.png) Other PowerShell Makers
-<br/>
-
-|||
-|---|---|
-|[![](https://img.shields.io/badge/Jeff%20Hicks-gray?style=for-the-badge&logo=github)](https://github.com/jdhitsolutions)|[![](https://img.shields.io/badge/Jeff%20Hicks-blue?style=for-the-badge&logo=twitter)](https://twitter.com/JeffHicks)
-|[![](https://img.shields.io/badge/Matthew%20Kelly-gray?style=for-the-badge&logo=github)](https://github.com/Badgerati) -->
