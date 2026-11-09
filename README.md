@@ -5,6 +5,12 @@
 
 > **Bridging decades of Systems Engineering with the future of Agentic AI.**
 
+### Projects built with AI
+
+I'm collecting the tools and experiments I build with AI, starting with [PSAISuite](https://github.com/dfinke/psaisuite), a PowerShell toolkit for working with multiple AI models and tools.
+
+**[Explore the complete project index →](https://dougfinke.dev/projects/)**
+
 I build high-agency automation frameworks and multi-agent orchestration tools within the PowerShell ecosystem. My mission is to provide the infrastructure for the next generation of intelligent automation using **Model Context Protocol (MCP)** and native AI integrations.
 
 ---
